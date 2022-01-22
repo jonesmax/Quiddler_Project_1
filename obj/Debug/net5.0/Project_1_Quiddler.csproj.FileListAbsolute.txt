@@ -1,0 +1,12 @@
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\bin\Debug\net5.0\Project_1_Quiddler.deps.json
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\bin\Debug\net5.0\Project_1_Quiddler.dll
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\bin\Debug\net5.0\ref\Project_1_Quiddler.dll
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\bin\Debug\net5.0\Project_1_Quiddler.pdb
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\obj\Debug\net5.0\Project_1_Quiddler.csproj.AssemblyReference.cache
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\obj\Debug\net5.0\Project_1_Quiddler.GeneratedMSBuildEditorConfig.editorconfig
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\obj\Debug\net5.0\Project_1_Quiddler.AssemblyInfoInputs.cache
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\obj\Debug\net5.0\Project_1_Quiddler.AssemblyInfo.cs
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\obj\Debug\net5.0\Project_1_Quiddler.csproj.CoreCompileInputs.cache
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\obj\Debug\net5.0\Project_1_Quiddler.dll
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\obj\Debug\net5.0\ref\Project_1_Quiddler.dll
+B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\obj\Debug\net5.0\Project_1_Quiddler.pdb

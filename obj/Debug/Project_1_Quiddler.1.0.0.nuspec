@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Project_1_Quiddler</id>
+    <version>1.0.0</version>
+    <authors>Project_1_Quiddler</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="B:\School - Sem 5\INFO-5060 .Net Component\Project_1_Quiddler\bin\Debug\net5.0\Project_1_Quiddler.dll" target="lib\net5.0\Project_1_Quiddler.dll" />
+  </files>
+</package>
