@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Maxwell Jones\\.nuget\\packages\\": {},
+    "C:\\Users\\Tim\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\School - Sem 5\\INFO-5060 .Net Component\\Project_1_Quiddler\\Project_1_Quiddler.csproj",
-      "projectName": "Project_1_Quiddler",
-      "projectPath": "B:\\School - Sem 5\\INFO-5060 .Net Component\\Project_1_Quiddler\\Project_1_Quiddler.csproj",
-      "packagesPath": "C:\\Users\\Maxwell Jones\\.nuget\\packages\\",
-      "outputPath": "B:\\School - Sem 5\\INFO-5060 .Net Component\\Project_1_Quiddler\\obj\\",
+      "projectUniqueName": "D:\\Fanshawe\\Semester 5\\INFO5060\\Quiddler_Project\\Quiddler_Project_1\\Quiddler_Library.csproj",
+      "projectName": "Quiddler_Library",
+      "projectPath": "D:\\Fanshawe\\Semester 5\\INFO5060\\Quiddler_Project\\Quiddler_Project_1\\Quiddler_Library.csproj",
+      "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
+      "outputPath": "D:\\Fanshawe\\Semester 5\\INFO5060\\Quiddler_Project\\Quiddler_Project_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Maxwell Jones\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,6 +10,7 @@ namespace Project_1_Quiddler
     public class Deck : IDeck
     {
         public Deck() { 
+            
         }
 
         string IDeck.About => throw new NotImplementedException();
