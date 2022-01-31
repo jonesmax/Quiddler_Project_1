@@ -9,26 +9,42 @@ namespace Project_1_Quiddler
 {
     public class Deck : IDeck
     {
+        private int _cardsPerPlayer;
+
         public Deck() { 
             
         }
 
-        string IDeck.About => throw new NotImplementedException();
+        string IDeck.About
+        {
+            get { return "about test"; }
+        }
 
-        int IDeck.CardCount => throw new NotImplementedException();
+        int IDeck.CardCount
+        {
+            get { return 0; }
+        }
 
-        int IDeck.CardsPerPlayer { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        int IDeck.CardsPerPlayer 
+        {
+            get { return 4; }
+            set { _cardsPerPlayer = 4; }
+        }
 
-        string IDeck.TopDiscard => throw new NotImplementedException();
+        string IDeck.TopDiscard
+        {
+            get { return "top discard test"; }
+        }
 
         IPlayer IDeck.NewPlayer()
         {
-            throw new NotImplementedException();
+            Player p = new Player();
+            return p;
         }
 
         string IDeck.ToString()
         {
-            throw new NotImplementedException();
+            return "to string test";
         }
     }
 }

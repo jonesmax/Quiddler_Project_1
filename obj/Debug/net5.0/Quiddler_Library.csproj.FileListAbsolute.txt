@@ -9,3 +9,4 @@ D:\Fanshawe\Semester 5\INFO5060\Quiddler_Project\Quiddler_Project_1\obj\Debug\ne
 D:\Fanshawe\Semester 5\INFO5060\Quiddler_Project\Quiddler_Project_1\obj\Debug\net5.0\Quiddler_Library.dll
 D:\Fanshawe\Semester 5\INFO5060\Quiddler_Project\Quiddler_Project_1\obj\Debug\net5.0\ref\Quiddler_Library.dll
 D:\Fanshawe\Semester 5\INFO5060\Quiddler_Project\Quiddler_Project_1\obj\Debug\net5.0\Quiddler_Library.pdb
+D:\Fanshawe\Semester 5\INFO5060\Quiddler_Project\Quiddler_Project_1\obj\Debug\net5.0\Quiddler_Library.csproj.AssemblyReference.cache
