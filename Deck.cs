@@ -15,15 +15,9 @@ namespace Project_1_Quiddler
             
         }
 
-        string IDeck.About
-        {
-            get { return "about test"; }
-        }
+        string IDeck.About => "Quiddler (TM) Library, Copyright 2022 M. Jones and T. Magwood";
 
-        int IDeck.CardCount
-        {
-            get { return 0; }
-        }
+        int IDeck.CardCount => 0;
 
         int IDeck.CardsPerPlayer 
         {
@@ -31,10 +25,7 @@ namespace Project_1_Quiddler
             set { _cardsPerPlayer = 4; }
         }
 
-        string IDeck.TopDiscard
-        {
-            get { return "top discard test"; }
-        }
+        string IDeck.TopDiscard => "top discard test";
 
         IPlayer IDeck.NewPlayer()
         {
