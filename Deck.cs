@@ -9,25 +9,33 @@ namespace Project_1_Quiddler
 {
     public class Deck : IDeck
     {
+        private int _cardsPerPlayer;
+
         public Deck() { 
+            
         }
 
-        string IDeck.About => throw new NotImplementedException();
+        string IDeck.About => "Quiddler (TM) Library, Copyright 2022 M. Jones and T. Magwood";
 
-        int IDeck.CardCount => throw new NotImplementedException();
+        int IDeck.CardCount => 0;
 
-        int IDeck.CardsPerPlayer { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        int IDeck.CardsPerPlayer 
+        {
+            get { return 4; }
+            set { _cardsPerPlayer = 4; }
+        }
 
-        string IDeck.TopDiscard => throw new NotImplementedException();
+        string IDeck.TopDiscard => "top discard test";
 
         IPlayer IDeck.NewPlayer()
         {
-            throw new NotImplementedException();
+            Player p = new Player();
+            return p;
         }
 
         string IDeck.ToString()
         {
-            throw new NotImplementedException();
+            return "to string test";
         }
     }
 }

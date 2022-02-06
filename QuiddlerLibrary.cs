@@ -11,7 +11,5 @@ namespace Project_1_Quiddler
         public Deck Deck = new Deck();
 
 
-
-
     }
 }

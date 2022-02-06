@@ -8,14 +8,14 @@ namespace Project_1_Quiddler.Interfaces
 {
     public interface IDeck
     {
-        string About { get; }
-        int CardCount { get; }
+        public string About { get; }
+        public int CardCount { get; }
         //Throws ArguementOutOfRangeException if an attempt to assign a value outside the range 3-10
-        int CardsPerPlayer { get; set; }
-        string TopDiscard { get; }
+        public int CardsPerPlayer { get; set; }
+        public string TopDiscard { get; }
 
-        IPlayer NewPlayer();
-        string ToString();
+        public IPlayer NewPlayer();
+        public string ToString();
         
     }
 }
